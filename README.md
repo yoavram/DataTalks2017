@@ -1,5 +1,5 @@
 # Dive into Scientific Python
-### [DataTalks #3](https://www.meetup.com/DataHack/)
+### [DataTalks #3](https://www.meetup.com/DataHack/events/237926275/)
 
 by **Yoav Ram** | [Homepage](http://www.yoavram.com) | [Python training](http://python.yoavram.com) | [Twitter](https://twitter.com/yoavram)
 
