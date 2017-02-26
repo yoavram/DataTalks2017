@@ -1,5 +1,5 @@
 # Dive into Scientific Python
-### [DataTalks #3](https://www.meetup.com/DataHack/)
+### [DataTalks #3](https://www.meetup.com/DataHack/events/237926275/)
 
 by **Yoav Ram** | [Homepage](http://www.yoavram.com) | [Python training](http://python.yoavram.com) | [Twitter](https://twitter.com/yoavram)
 
@@ -13,4 +13,4 @@ I will introduce the Python programming language and demonstrate how Scientific 
 
 ## License
 
-CC-BY-SA 3.0
+CC-BY-SA 4.0
