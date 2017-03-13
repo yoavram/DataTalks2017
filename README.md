@@ -5,7 +5,7 @@ by **Yoav Ram** | [Homepage](http://www.yoavram.com) | [Python training](http://
 
 [![PDF](https://img.shields.io/badge/presentation-PDF-blue.svg)](https://github.com/yoavram/DataTalks2017/blob/master/presentation.pdf?raw=true)
 [![PowerPoint](https://img.shields.io/badge/presentation-PowerPoint-red.svg)](https://github.com/yoavram/DataTalks2017/blob/master/presentation.pptx?raw=true)
-[![NBViewer](https://img.shields.io/badge/notebook-nbviewer-green.svg)](http://nbviewer.jupyter.org/github/yoavram/PyConIL2016/blob/master/notebook.ipynb) [![Binder](https://img.shields.io/badge/notebook-binder-orange.svg)](http://mybinder.org/repo/yoavram/PyConIL2016)
+[![NBViewer](https://img.shields.io/badge/static notebook-nbviewer-green.svg)](http://nbviewer.jupyter.org/github/yoavram/PyConIL2016/tree/master/) [![Binder](https://img.shields.io/badge/interactive notebook-binder-orange.svg)](http://mybinder.org/repo/yoavram/PyConIL2016)
 
 ## Abstract
 
